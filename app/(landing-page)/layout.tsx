@@ -16,7 +16,7 @@ export default function Layout(props: { children: React.ReactNode }) {
       <Footer
         builtBy="Stack Auth"
         builtByLink="https://stack-auth.com/"
-        githubLink="https://github.com/stack-auth/stack-template"
+        githubLink="https://github.com/Leslie-kardashev"
         twitterLink="https://twitter.com/stack_auth"
         linkedinLink="linkedin.com/company/stack-auth"
       />
